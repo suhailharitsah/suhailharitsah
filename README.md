@@ -16,10 +16,6 @@ I'm an experienced Full-stack Web Developer, skilled in building dynamic and sca
 
 <img align="right" height="150" src="img/a7gk3k.gif"  />
 
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/suhailharitsah/suhailharitsah/output/snake.svg" alt="Snake animation" />
 
 ###
