@@ -20,6 +20,8 @@ I'm an experienced Full-stack Web Developer, skilled in building dynamic and sca
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suhailharitsah/suhailharitsah/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhailharitsah/suhailharitsah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhailharitsah/suhailharitsah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suhailharitsah/suhailharitsah/output/pacman-contribution-graph.svg">
+</picture>
